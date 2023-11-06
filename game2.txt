@@ -1,6 +1,6 @@
-[Andrea] ima 0 pobjeda i 0 poraza!
-[Luka] ima 0 pobjeda i 0 poraza!
+[Andrea] ima 3 pobjeda i 0 poraza!
+[Luka] ima 0 pobjeda i 3 poraza!
 
-X X X
-. o o
+X X .
+o o o
 . . .
